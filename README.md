@@ -9,16 +9,18 @@
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Database Schema](#database-schema)
-- [Results](#results)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Project Structure](#-project-structure)
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Database Schema](#️-database-schema)
+- [Results](#-results)
+- [Technologies](#️-technologies)
+- [Next Steps](#-next-steps-milestone-2)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -104,7 +106,7 @@ milestone_1/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+git clone https://github.com/KhalidAbdelaty/customer-churn-prediction.git
 cd customer-churn-prediction/milestone_1
 ```
 
@@ -282,6 +284,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Telco Customer Churn Dataset from Kaggle
 - AI & Data Science Track - Round 3 Project
+
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
+```
+git commit -m "docs: Fix Table of Contents hyperlinks and update repository URL"
+git push origin main
+```
