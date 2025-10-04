@@ -1,0 +1,15 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "YOUR_MYSQL_USERNAME",
+        "password": "YOUR_MYSQL_PASSWORD",
+        "database": "customer_churn_db"
+    },
+    "paths": {
+        "raw_data": "data/raw",
+        "processed_data": "data/processed",
+        "sql_queries": "sql_queries",
+        "notebooks": "notebooks"
+    }
+}
