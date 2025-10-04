@@ -288,7 +288,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
-```
-git commit -m "docs: Fix Table of Contents hyperlinks and update repository URL"
-git push origin main
-```
