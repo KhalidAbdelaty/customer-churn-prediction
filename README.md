@@ -278,26 +278,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
-
----
-
 ## 🙏 Acknowledgments
 
 - Telco Customer Churn Dataset from Kaggle
-- AI & Data Science Track - Round 2 Project
-- Anthropic Claude for development assistance
-
----
-
-## 📞 Support
-
-For questions or issues, please open an issue on GitHub or contact [your.email@example.com]
-
+- AI & Data Science Track - Round 3 Project
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
